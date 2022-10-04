@@ -1,6 +1,6 @@
 /**
- * The program randomly generates marks and
- * saves them in a 2d array and in a .csv file.
+ * This is the main code that runs
+ * with the MrCoxallStack.
  * By:      Daria Bernice Calitis
  * Version: 1.0
  * Since:   2022-10-03
