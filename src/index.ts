@@ -15,9 +15,9 @@ const myStack = new MrCoxallStack()
 
 // Input & Process
 const userNum = Number(prompt('Enter a number: '))
-myStack.Push(userNum)
+myStack.pushItem(userNum)
 
 // Output
-myStack.ShowStack()
+myStack.showStack()
 
 console.log('\nDone.')

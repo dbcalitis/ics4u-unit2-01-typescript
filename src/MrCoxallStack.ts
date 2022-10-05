@@ -8,11 +8,11 @@
 class MrCoxallStack {
   stack: number[] = []
 
-  Push(pushedNumber: number): void {
+  pushItem(pushedNumber: number): void {
     this.stack.push(pushedNumber)
   }
 
-  ShowStack(): void {
+  showStack(): void {
     console.log(this.stack)
   }
 }
